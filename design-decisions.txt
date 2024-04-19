@@ -1,0 +1,1 @@
+Instead of buying SMD EEPROM (which is expensive on digikey, and they don't have parallel EEPROMS in stock on JLCPCB  parts), we will use 28 pin DIP sockekts on digikey, and then use the DIP EEPROMs that we already have.
