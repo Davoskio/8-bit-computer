@@ -1,0 +1,22 @@
+8 Bit Register; 74HC377; C546898; TSSOP20_6.5_4.4_0.65
+555 Timer; NE555DR; C695838; SOP-8
+NAND Gates; 74HC00; C5586; SOIC-14_8.65_3.9_1.27
+NOR Gates; 74HC02; C5588; SOIC-14_8.65_3.9_1.27
+Inverters; 74HC04; C5590; SOIC-14_8.65_3.9_1.27
+AND Gates; 74HC08; C5593; SOIC-14_8.65_3.9_1.27
+Buffer; 74HC245; C5625; SOIC-20_7.5_12.8_1.27
+2 to 1 line; 74HC157; C6823; SOIC-16_9.9_3.9_1.27
+Exclusive Or Gate; 74HC86; C6763; SOIC-14_8.7_3.9_1.27
+4 Bit Synchronous Binary Counters; 74HC161; C6824; SOIC-16_9.9_3.9_1.27
+JK Flip Flop; 74HC107; C1549901; SOIC-14_8.7_3.9_1.27
+3 to 8 line decoder; 74HC138; C5602; SOIC-16_9.9_3.9_1.27
+2 to 4 line decoder; 74HC139; C5603; SOIC-16_9.9_3.9_1.27
+4 bit binary full adder with fast carry; 74HC283; C139343; 7.62mm DIP
+16v 100nF capacitor; ; C1525; 0402
+25v 1uF capacitor; ; C52923; 0402
+50v 10nF; ; C15195; 0402
+25V 10uF; ; C96449; 0603
+25V 22uF; ; C45783; 0805
+8 Bit DIP switch; ; C3293147; 5.25mm 1.27mm
+4 Bit DIP switch; ; C40736; 5.4mm 1.27mm
+1 MOhm Potentiometer; 3314G; C780218; 3314G
