@@ -9529,37 +9529,30 @@
 				)
 			)
 		)
-		(symbol "Display_Character:HDSP-7403"
+		(symbol "Display_Character:D1X8K-14BL"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "U"
-				(at -3.81 13.97 0)
+				(at -2.54 13.97 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
-			(property "Value" "HDSP-7403"
-				(at 6.35 13.97 0)
+			(property "Value" "D1X8K-14BL"
+				(at 1.27 13.97 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Footprint" "Display_7Segment:HDSP-7401"
-				(at 0 -13.97 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://docs.broadcom.com/docs/AV02-2553EN"
-				(at 0 0 0)
+			(property "Footprint" "Display_7Segment:D1X8K"
+				(at 0 -15.24 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -9567,7 +9560,17 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "One digit 7 segment yellow, common cathode"
+			(property "Datasheet" "https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf"
+				(at -12.7 12.065 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "One digit 7 segment ultra bright blue LED, low current, common cathode"
 				(at 0 0 0)
 				(effects
 					(font
@@ -9585,7 +9588,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "HDSP?7401*"
+			(property "ki_fp_filters" "D1X8K*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -9594,9 +9597,9 @@
 					(hide yes)
 				)
 			)
-			(symbol "HDSP-7403_1_0"
+			(symbol "D1X8K-14BL_0_0"
 				(text "A"
-					(at 0.254 2.413 0)
+					(at 0.254 5.588 0)
 					(effects
 						(font
 							(size 0.508 0.508)
@@ -9604,7 +9607,7 @@
 					)
 				)
 				(text "B"
-					(at 2.54 1.651 0)
+					(at 2.54 4.826 0)
 					(effects
 						(font
 							(size 0.508 0.508)
@@ -9612,7 +9615,7 @@
 					)
 				)
 				(text "C"
-					(at 2.286 -1.397 0)
+					(at 2.286 1.778 0)
 					(effects
 						(font
 							(size 0.508 0.508)
@@ -9620,7 +9623,7 @@
 					)
 				)
 				(text "D"
-					(at -0.254 -2.159 0)
+					(at -0.254 1.016 0)
 					(effects
 						(font
 							(size 0.508 0.508)
@@ -9628,7 +9631,7 @@
 					)
 				)
 				(text "DP"
-					(at 3.556 -2.921 0)
+					(at 3.556 0.254 0)
 					(effects
 						(font
 							(size 0.508 0.508)
@@ -9636,7 +9639,7 @@
 					)
 				)
 				(text "E"
-					(at -2.54 -1.397 0)
+					(at -2.54 1.778 0)
 					(effects
 						(font
 							(size 0.508 0.508)
@@ -9644,7 +9647,7 @@
 					)
 				)
 				(text "F"
-					(at -2.286 1.651 0)
+					(at -2.286 4.826 0)
 					(effects
 						(font
 							(size 0.508 0.508)
@@ -9652,7 +9655,7 @@
 					)
 				)
 				(text "G"
-					(at 0 0.889 0)
+					(at 0 4.064 0)
 					(effects
 						(font
 							(size 0.508 0.508)
@@ -9660,7 +9663,7 @@
 					)
 				)
 			)
-			(symbol "HDSP-7403_1_1"
+			(symbol "D1X8K-14BL_0_1"
 				(rectangle
 					(start -5.08 12.7)
 					(end 5.08 -12.7)
@@ -9674,7 +9677,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.524 -0.381) (xy -1.778 -2.413)
+						(xy -1.524 2.794) (xy -1.778 0.762)
 					)
 					(stroke
 						(width 0.508)
@@ -9686,7 +9689,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.27 -2.921) (xy 0.762 -2.921)
+						(xy -1.27 0.254) (xy 0.762 0.254)
 					)
 					(stroke
 						(width 0.508)
@@ -9698,7 +9701,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.27 2.667) (xy -1.524 0.635)
+						(xy -1.27 5.842) (xy -1.524 3.81)
 					)
 					(stroke
 						(width 0.508)
@@ -9710,7 +9713,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.016 0.127) (xy 1.016 0.127)
+						(xy -1.016 3.302) (xy 1.016 3.302)
 					)
 					(stroke
 						(width 0.508)
@@ -9722,7 +9725,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.762 3.175) (xy 1.27 3.175)
+						(xy -0.762 6.35) (xy 1.27 6.35)
 					)
 					(stroke
 						(width 0.508)
@@ -9734,7 +9737,7 @@
 				)
 				(polyline
 					(pts
-						(xy 1.524 -0.381) (xy 1.27 -2.413)
+						(xy 1.524 2.794) (xy 1.27 0.762)
 					)
 					(stroke
 						(width 0.508)
@@ -9746,7 +9749,7 @@
 				)
 				(polyline
 					(pts
-						(xy 1.778 2.667) (xy 1.524 0.635)
+						(xy 1.778 5.842) (xy 1.524 3.81)
 					)
 					(stroke
 						(width 0.508)
@@ -9758,7 +9761,7 @@
 				)
 				(polyline
 					(pts
-						(xy 2.54 -2.921) (xy 2.54 -2.921)
+						(xy 2.54 0.254) (xy 2.54 0.254)
 					)
 					(stroke
 						(width 0.508)
@@ -9768,10 +9771,12 @@
 						(type none)
 					)
 				)
+			)
+			(symbol "D1X8K-14BL_1_1"
 				(pin input line
-					(at 7.62 -7.62 180)
+					(at -7.62 -2.54 0)
 					(length 2.54)
-					(name "CC"
+					(name "E"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -9779,42 +9784,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 7.62 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -5.08 0)
-					(length 2.54)
-					(name "F"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -9832,25 +9801,7 @@
 							)
 						)
 					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -2.54 0)
-					(length 2.54)
-					(name "E"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
+					(number "10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -9868,7 +9819,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -9877,7 +9828,7 @@
 					)
 				)
 				(pin input line
-					(at 7.62 -10.16 180)
+					(at 7.62 -7.62 180)
 					(length 2.54)
 					(name "CC"
 						(effects
@@ -9886,25 +9837,7 @@
 							)
 						)
 					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -10.16 0)
-					(length 2.54)
-					(name "DP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -9922,7 +9855,25 @@
 							)
 						)
 					)
-					(number "8"
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -10.16 0)
+					(length 2.54)
+					(name "DP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -9934,6 +9885,60 @@
 					(at -7.62 5.08 0)
 					(length 2.54)
 					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 7.62 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 7.62 -10.16 180)
+					(length 2.54)
+					(name "CC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -5.08 0)
+					(length 2.54)
+					(name "F"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -13901,12 +13906,6 @@
 		(uuid "08ca4161-47e5-4406-83ac-5f56aee3a2b6")
 	)
 	(junction
-		(at 334.01 253.238)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0c2c528d-4d9d-4d8b-a149-0b370f9b2ccb")
-	)
-	(junction
 		(at 146.558 464.058)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -13953,12 +13952,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "223fcde4-85f1-4eee-ae17-ca8e466d776a")
-	)
-	(junction
-		(at 422.402 253.4431)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "23b0cdcd-d073-4aef-bb0a-f0ed132537ca")
 	)
 	(junction
 		(at 630.7416 68.961)
@@ -14055,6 +14048,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3c15b2dc-0185-4462-92b8-c0eb145dd873")
+	)
+	(junction
+		(at 334.01 253.238)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3dc1bbf8-10bf-400d-a252-80c76f8d0d67")
 	)
 	(junction
 		(at 346.964 465.074)
@@ -14333,12 +14332,6 @@
 		(uuid "949d267d-41a7-4a64-bfc3-c1c423ca8f62")
 	)
 	(junction
-		(at 363.22 253.238)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "95bc88ee-e72f-43d3-a384-c974dbc71470")
-	)
-	(junction
 		(at 40.64 432.435)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14387,16 +14380,16 @@
 		(uuid "a9742bcd-36ae-4296-bd72-345c406c707c")
 	)
 	(junction
+		(at 363.22 253.238)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ac1e27f3-3636-4176-9ecc-5e9bb8107855")
+	)
+	(junction
 		(at 121.412 177.292)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "afd70d05-2065-47d3-b571-f9bf0817f441")
-	)
-	(junction
-		(at 391.668 253.492)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b178d535-98b9-4bc2-8ecb-b7206ce0bc30")
 	)
 	(junction
 		(at 230.886 409.448)
@@ -14409,6 +14402,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b6918600-2e0c-458a-a268-84c633fd1946")
+	)
+	(junction
+		(at 422.402 253.492)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b950830f-4e2d-41c3-a854-38d736a36a27")
 	)
 	(junction
 		(at 808.482 66.929)
@@ -14517,6 +14516,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eb36b71b-ea13-49da-b09c-54df1de2de28")
+	)
+	(junction
+		(at 391.668 253.492)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ebf8ee57-f38e-46b3-9be0-be5cbaf4b535")
 	)
 	(junction
 		(at 224.536 70.104)
@@ -15064,16 +15069,6 @@
 	)
 	(wire
 		(pts
-			(xy 334.01 265.176) (xy 334.01 253.238)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1789be94-d43b-4c5c-957b-e7c15a8346e4")
-	)
-	(wire
-		(pts
 			(xy 630.7416 68.961) (xy 638.302 68.961)
 		)
 		(stroke
@@ -15241,6 +15236,16 @@
 			(type default)
 		)
 		(uuid "1d93f8fa-3973-4c39-9269-33ad085d57c6")
+	)
+	(wire
+		(pts
+			(xy 334.01 253.238) (xy 334.01 267.208)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e433241-2566-4fe5-8fc5-d87b39cbb00d")
 	)
 	(wire
 		(pts
@@ -15544,17 +15549,7 @@
 	)
 	(wire
 		(pts
-			(xy 422.402 250.952) (xy 422.402 253.4431)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e31170b-063c-4bea-a0bd-0bed02459573")
-	)
-	(wire
-		(pts
-			(xy 422.402 253.4431) (xy 422.402 253.492)
+			(xy 422.402 250.952) (xy 422.402 253.492)
 		)
 		(stroke
 			(width 0)
@@ -16034,7 +16029,7 @@
 	)
 	(wire
 		(pts
-			(xy 423.926 262.382) (xy 423.926 253.4431)
+			(xy 423.926 262.382) (xy 423.926 253.492)
 		)
 		(stroke
 			(width 0)
@@ -17494,7 +17489,7 @@
 	)
 	(wire
 		(pts
-			(xy 363.728 265.176) (xy 334.01 265.176)
+			(xy 363.728 267.208) (xy 334.01 267.208)
 		)
 		(stroke
 			(width 0)
@@ -18004,7 +17999,7 @@
 	)
 	(wire
 		(pts
-			(xy 423.926 253.4431) (xy 422.402 253.4431)
+			(xy 423.926 253.492) (xy 422.402 253.492)
 		)
 		(stroke
 			(width 0)
@@ -18051,6 +18046,16 @@
 			(type default)
 		)
 		(uuid "a05ee4e0-c9a4-4ebe-8df7-bda84fa1578b")
+	)
+	(wire
+		(pts
+			(xy 334.01 250.698) (xy 334.01 253.238)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a061b244-3d84-41ad-8e85-65c28cdf1896")
 	)
 	(wire
 		(pts
@@ -19001,16 +19006,6 @@
 			(type default)
 		)
 		(uuid "c1f1102a-8d88-484d-90b7-2d5cfe62568c")
-	)
-	(wire
-		(pts
-			(xy 334.01 250.698) (xy 334.01 253.238)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c20dc6a4-935c-46cf-8d54-58017d8841ad")
 	)
 	(wire
 		(pts
@@ -20064,7 +20059,7 @@
 	)
 	(wire
 		(pts
-			(xy 363.728 278.384) (xy 363.728 265.176)
+			(xy 363.728 278.384) (xy 363.728 267.208)
 		)
 		(stroke
 			(width 0)
@@ -20406,7 +20401,7 @@
 	)
 	(rectangle
 		(start 499.11 410.21)
-		(end 598.17 485.14)
+		(end 610.87 485.14)
 		(stroke
 			(width 0)
 			(type default)
@@ -21809,7 +21804,7 @@
 		)
 		(uuid "2532fad0-896b-48b7-8cda-d9ba449e947c")
 	)
-	(label "LCD_B"
+	(label "LCD_D"
 		(at 347.98 243.078 180)
 		(fields_autoplaced yes)
 		(effects
@@ -21952,7 +21947,7 @@
 		)
 		(uuid "3047e90c-e56c-460b-b17d-dd2acdb86bc6")
 	)
-	(label "LCD_B"
+	(label "LCD_D"
 		(at 407.162 243.332 180)
 		(fields_autoplaced yes)
 		(effects
@@ -23041,6 +23036,17 @@
 		)
 		(uuid "7b4e4ad5-6772-430c-ac31-f96f8c635f21")
 	)
+	(label "CLK"
+		(at 599.694 460.502 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7bfe8e16-2a87-4469-8773-7c68a8d95d69")
+	)
 	(label "IR_6"
 		(at 319.024 454.914 180)
 		(fields_autoplaced yes)
@@ -23327,7 +23333,7 @@
 		)
 		(uuid "8b40e290-d7cb-4c0c-9799-5cac80468255")
 	)
-	(label "LCD_B"
+	(label "LCD_D"
 		(at 291.338 252.73 0)
 		(fields_autoplaced yes)
 		(effects
@@ -24163,7 +24169,7 @@
 		)
 		(uuid "b6385897-cbd3-421a-b27f-523bfe84a0a1")
 	)
-	(label "LCD_B"
+	(label "LCD_D"
 		(at 318.77 243.078 180)
 		(fields_autoplaced yes)
 		(effects
@@ -24218,7 +24224,7 @@
 		)
 		(uuid "b9ce55cb-5026-4d51-a1e3-c42b282b1ef1")
 	)
-	(label "LCD_B"
+	(label "LCD_D"
 		(at 376.428 243.332 180)
 		(fields_autoplaced yes)
 		(effects
@@ -42251,6 +42257,99 @@
 		)
 	)
 	(symbol
+		(lib_id "Display_Character:D1X8K-14BL")
+		(at 414.782 243.332 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "566111aa-7989-4011-a624-429e886af83d")
+		(property "Reference" "U32"
+			(at 414.782 225.298 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D1X8K-14BL"
+			(at 414.782 227.838 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Display_7Segment:D1X8K"
+			(at 414.782 258.572 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf"
+			(at 402.082 231.267 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "One digit 7 segment ultra bright blue LED, low current, common cathode"
+			(at 414.782 243.332 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "343c7f5a-d3f2-41cf-9076-35938ccf98d7")
+		)
+		(pin "3"
+			(uuid "7035fdfc-1918-4bb8-bf8a-3a4568e091e7")
+		)
+		(pin "10"
+			(uuid "e090c91a-2680-4cd4-8266-c788c682e7c0")
+		)
+		(pin "2"
+			(uuid "bf4bc48f-3e9a-4b52-8979-e9abc87ba747")
+		)
+		(pin "1"
+			(uuid "b38388bc-9516-4a88-8c27-9cbe1880bed1")
+		)
+		(pin "9"
+			(uuid "fd2b722c-3195-4e8f-a7a7-9735a3200101")
+		)
+		(pin "6"
+			(uuid "4975d800-d87d-4c2e-be8d-31afea9297ff")
+		)
+		(pin "7"
+			(uuid "ecbd03f9-d730-4563-a8bb-744c3c04e446")
+		)
+		(pin "5"
+			(uuid "94dac2f0-566d-41fd-8ec0-890198066a41")
+		)
+		(pin "4"
+			(uuid "514863f9-a8d0-484a-9dfe-c88ed1a67cbe")
+		)
+		(instances
+			(project "8-Bit-Computer"
+				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
+					(reference "U32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 146.05 317.5 90)
 		(unit 1)
@@ -46249,98 +46348,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Display_Character:HDSP-7403")
-		(at 414.782 243.332 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6c00681a-78b1-483d-aa76-ca3e20663fb0")
-		(property "Reference" "U33"
-			(at 414.782 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "HDSP-7403"
-			(at 414.782 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Display_7Segment:HDSP-7401"
-			(at 414.782 257.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://docs.broadcom.com/docs/AV02-2553EN"
-			(at 414.782 243.332 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "One digit 7 segment yellow, common cathode"
-			(at 414.782 243.332 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "8"
-			(uuid "f0b0bc99-4355-4f62-bac6-8d9d5f20d02b")
-		)
-		(pin "5"
-			(uuid "8770d247-64a9-4f31-988e-aabb8fe7a218")
-		)
-		(pin "9"
-			(uuid "384ba172-43e9-43e6-80c2-ef5abe6193a8")
-		)
-		(pin "7"
-			(uuid "a463aeb3-96ce-44f8-9b2e-fac736114f60")
-		)
-		(pin "10"
-			(uuid "ba1315ee-b4ed-4a86-9e47-031388094e02")
-		)
-		(pin "3"
-			(uuid "4b5cc388-4c71-449b-b049-6ef29959ecfb")
-		)
-		(pin "6"
-			(uuid "9fa46c82-ea50-4b6e-93b0-f05e59fb623d")
-		)
-		(pin "4"
-			(uuid "8db0adb3-6b17-494f-8c7a-6a9be159f24f")
-		)
-		(pin "1"
-			(uuid "870cf341-4931-4b9f-9059-d70442ad51f9")
-		)
-		(pin "2"
-			(uuid "cad9b4d4-9fa0-4f71-840e-a9145590dd90")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "U33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 319.532 41.402 0)
 		(unit 1)
@@ -49442,6 +49449,76 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "D76")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 599.694 464.312 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7ba2f34a-bd47-450e-872b-937f2fb54cd4")
+		(property "Reference" "R114"
+			(at 602.234 463.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R_US"
+			(at 602.234 465.582 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 600.71 464.566 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 599.694 464.312 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 599.694 464.312 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "42e5e27e-bd1e-4138-ba9f-1b3b0d20a40b")
+		)
+		(pin "2"
+			(uuid "89bce854-5e6b-4e5c-ab49-1e29506a5451")
+		)
+		(instances
+			(project "8-Bit-Computer"
+				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
+					(reference "R114")
 					(unit 1)
 				)
 			)
@@ -52661,6 +52738,76 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "U19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 599.694 471.932 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8d106c4d-4aaf-433c-897e-2a3de8fa037b")
+		(property "Reference" "D83"
+			(at 602.869 472.2495 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "B_LED"
+			(at 602.869 474.7895 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+			(at 599.694 471.932 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 599.694 471.932 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 599.694 471.932 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5be7537f-58d8-4783-853b-d7cceed19296")
+		)
+		(pin "1"
+			(uuid "47de0bf0-677d-446f-9155-42357bdc6efa")
+		)
+		(instances
+			(project "8-Bit-Computer"
+				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
+					(reference "D83")
 					(unit 1)
 				)
 			)
@@ -58505,6 +58652,72 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 599.694 475.742 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af00f82b-c8a6-4d31-a7ce-33493663bb21")
+		(property "Reference" "#PWR0332"
+			(at 599.694 482.092 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 599.694 480.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 599.694 475.742 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 599.694 475.742 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 599.694 475.742 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e94d270c-c51d-4fa6-a796-725d70361f2e")
+		)
+		(instances
+			(project "8-Bit-Computer"
+				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
+					(reference "#PWR0332")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 295.656 104.902 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -60294,6 +60507,99 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "D60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Display_Character:D1X8K-14BL")
+		(at 326.39 243.078 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b81ebd6a-4778-45b9-b303-35fab13462ec")
+		(property "Reference" "U44"
+			(at 326.39 225.044 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D1X8K-14BL"
+			(at 326.39 227.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Display_7Segment:D1X8K"
+			(at 326.39 258.318 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf"
+			(at 313.69 231.013 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "One digit 7 segment ultra bright blue LED, low current, common cathode"
+			(at 326.39 243.078 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "d673196d-ba38-4e9f-947d-cf57600ec1f1")
+		)
+		(pin "3"
+			(uuid "ac399670-fbef-4626-b292-fd735ffa054f")
+		)
+		(pin "10"
+			(uuid "1b3c5061-7af8-40ee-a264-7dccf2636cab")
+		)
+		(pin "2"
+			(uuid "59948df0-6af1-4a38-aa57-d8bb38491a00")
+		)
+		(pin "1"
+			(uuid "cf54003f-83b1-473d-8534-3d6fa928ae4b")
+		)
+		(pin "9"
+			(uuid "ecc907ed-d790-4c57-98b1-2213cf9f247d")
+		)
+		(pin "6"
+			(uuid "2e82ad0b-d188-4aeb-84e9-4f1865ff0d96")
+		)
+		(pin "7"
+			(uuid "89abd419-9cc0-47aa-adc5-81967ca96a4b")
+		)
+		(pin "5"
+			(uuid "d80e682d-5bfa-4799-8d36-0c0c6a9fe4e6")
+		)
+		(pin "4"
+			(uuid "7dd66498-e272-48ad-a3e2-7de82dfbb607")
+		)
+		(instances
+			(project "8-Bit-Computer"
+				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
+					(reference "U44")
 					(unit 1)
 				)
 			)
@@ -64168,98 +64474,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Display_Character:HDSP-7403")
-		(at 326.39 243.078 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cf3b80b7-89dc-4cdd-99b7-fa802f8f591e")
-		(property "Reference" "U22"
-			(at 326.39 225.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "HDSP-7403"
-			(at 326.39 228.346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Display_7Segment:HDSP-7401"
-			(at 326.39 257.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://docs.broadcom.com/docs/AV02-2553EN"
-			(at 326.39 243.078 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "One digit 7 segment yellow, common cathode"
-			(at 326.39 243.078 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "8"
-			(uuid "0d579b35-4511-471a-a13a-a8b2ef711ad0")
-		)
-		(pin "5"
-			(uuid "00b35b27-9885-4a18-a484-1a4015a8e039")
-		)
-		(pin "9"
-			(uuid "8670dafc-2de0-488a-9c52-21e9a4f75948")
-		)
-		(pin "7"
-			(uuid "9af1ccc4-2682-4cc0-b4e9-072895cb8cee")
-		)
-		(pin "10"
-			(uuid "ec935336-7175-4304-83fe-0a4d7cc476cc")
-		)
-		(pin "3"
-			(uuid "fbf8bf52-970f-4bd1-8fe8-22e3c6822ccb")
-		)
-		(pin "6"
-			(uuid "36831849-22cd-403c-a466-e600a23fd462")
-		)
-		(pin "4"
-			(uuid "f93066fc-2b80-46b7-9bd2-fa288b1b0652")
-		)
-		(pin "1"
-			(uuid "b3687427-6467-4565-9cd3-4580768aa9c8")
-		)
-		(pin "2"
-			(uuid "78aea96e-4593-46c7-9c7e-cb31003d313c")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "U22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 402.844 336.804 270)
 		(unit 1)
@@ -68128,6 +68342,99 @@
 		)
 	)
 	(symbol
+		(lib_id "Display_Character:D1X8K-14BL")
+		(at 355.6 243.078 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e112b22d-1a6a-420f-a059-141a11664aa8")
+		(property "Reference" "U22"
+			(at 355.6 225.044 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D1X8K-14BL"
+			(at 355.6 227.584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Display_7Segment:D1X8K"
+			(at 355.6 258.318 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf"
+			(at 342.9 231.013 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "One digit 7 segment ultra bright blue LED, low current, common cathode"
+			(at 355.6 243.078 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "5fc7c60f-aaa7-44ec-8c10-8859040c9a61")
+		)
+		(pin "3"
+			(uuid "46e59035-08da-41a0-8f51-006c94229b1b")
+		)
+		(pin "10"
+			(uuid "c6da85ec-f7d2-4460-b67e-11226d3b315e")
+		)
+		(pin "2"
+			(uuid "4a6ce9b5-51a9-4e4f-9ccc-d35a745e48f9")
+		)
+		(pin "1"
+			(uuid "98177acd-387d-4005-beb6-82c3748636a6")
+		)
+		(pin "9"
+			(uuid "f6d2a554-2eb2-4889-8a64-a91887b00ea4")
+		)
+		(pin "6"
+			(uuid "d74826e4-e8fa-4aae-9bf4-d55542e0debb")
+		)
+		(pin "7"
+			(uuid "4e96f80e-848a-4be2-b5d4-c11b18598577")
+		)
+		(pin "5"
+			(uuid "e71e2624-f269-4521-aa37-474cb44ee8be")
+		)
+		(pin "4"
+			(uuid "85116939-0d68-4d1b-93e9-f09b38d0396b")
+		)
+		(instances
+			(project "8-Bit-Computer"
+				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
+					(reference "U22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 575.564 375.92 0)
 		(unit 1)
@@ -69415,98 +69722,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Display_Character:HDSP-7403")
-		(at 384.048 243.332 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e62d3a4a-60df-45ab-8f94-c0a010f8a76a")
-		(property "Reference" "U32"
-			(at 384.048 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "HDSP-7403"
-			(at 384.048 228.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Display_7Segment:HDSP-7401"
-			(at 384.048 257.302 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://docs.broadcom.com/docs/AV02-2553EN"
-			(at 384.048 243.332 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "One digit 7 segment yellow, common cathode"
-			(at 384.048 243.332 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "8"
-			(uuid "331daa9e-3438-452c-a789-11f837b54bd4")
-		)
-		(pin "5"
-			(uuid "595c7bf1-fb2f-4ac5-8962-d9730f2aba71")
-		)
-		(pin "9"
-			(uuid "b2b8183e-5f53-4bb4-a793-c52244103207")
-		)
-		(pin "7"
-			(uuid "4665b242-6f33-4d05-867a-697c152377c5")
-		)
-		(pin "10"
-			(uuid "752fb4ee-b927-4968-9cf2-fc2f9665b48c")
-		)
-		(pin "3"
-			(uuid "0cc43352-bc79-4947-bcb2-efe2466de781")
-		)
-		(pin "6"
-			(uuid "6a3fd4bb-91cb-4714-a075-79b4501c9882")
-		)
-		(pin "4"
-			(uuid "45f07ba3-9586-4116-920f-d4cc217a933f")
-		)
-		(pin "1"
-			(uuid "e9146c60-2d22-4a7d-9794-c0c7986ff5e3")
-		)
-		(pin "2"
-			(uuid "ea32090f-8675-4c85-89c6-dbcde73e47ff")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "U32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 79.248 43.18 270)
 		(unit 1)
@@ -70654,7 +70869,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74HC00")
-		(at 796.29 186.182 0)
+		(at 796.544 169.672 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -70662,7 +70877,7 @@
 		(dnp no)
 		(uuid "ea2cddc0-81d1-43a0-b60e-b3ded188fe9e")
 		(property "Reference" "U20"
-			(at 796.2817 177.292 0)
+			(at 796.5357 160.782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70670,7 +70885,7 @@
 			)
 		)
 		(property "Value" "74HC00"
-			(at 796.2817 179.832 0)
+			(at 796.5357 163.322 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70678,7 +70893,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 796.29 186.182 0)
+			(at 796.544 169.672 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70687,7 +70902,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74hc00"
-			(at 796.29 186.182 0)
+			(at 796.544 169.672 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70696,7 +70911,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 796.29 186.182 0)
+			(at 796.544 169.672 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -71096,6 +71311,99 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Display_Character:D1X8K-14BL")
+		(at 384.048 243.332 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "edb78d7a-a4f2-4027-b852-590b17f21bba")
+		(property "Reference" "U30"
+			(at 384.048 225.298 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D1X8K-14BL"
+			(at 384.048 227.838 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Display_7Segment:D1X8K"
+			(at 384.048 258.572 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf"
+			(at 371.348 231.267 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "One digit 7 segment ultra bright blue LED, low current, common cathode"
+			(at 384.048 243.332 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "3b00a3f6-2ac6-4ef4-8161-c10ba874036f")
+		)
+		(pin "3"
+			(uuid "12cfd6ad-671f-4186-b7d4-05af1333e6f2")
+		)
+		(pin "10"
+			(uuid "9b57ff14-8f5e-439c-b06c-32ff4434630e")
+		)
+		(pin "2"
+			(uuid "15581bf3-69d2-47bb-a885-b4ba330e244d")
+		)
+		(pin "1"
+			(uuid "40a45fde-4202-4022-ab15-4895fb51e865")
+		)
+		(pin "9"
+			(uuid "b16d7750-4717-49e2-95ad-c5277338c2f6")
+		)
+		(pin "6"
+			(uuid "a4484881-7b43-421f-9b5f-5c0526a10d59")
+		)
+		(pin "7"
+			(uuid "95c887b9-3479-4864-bfd3-ee9e37a16599")
+		)
+		(pin "5"
+			(uuid "4084cf46-3df4-4587-bac4-c0d5b5ab986c")
+		)
+		(pin "4"
+			(uuid "9cf78937-b5e4-4d2e-9a84-edce69684496")
+		)
+		(instances
+			(project "8-Bit-Computer"
+				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
+					(reference "U30")
 					(unit 1)
 				)
 			)
@@ -71607,98 +71915,6 @@
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "U13")
 					(unit 5)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Display_Character:HDSP-7403")
-		(at 355.6 243.078 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f08cf7ff-94b9-4759-93a0-4fc362f480cb")
-		(property "Reference" "U30"
-			(at 355.6 225.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "HDSP-7403"
-			(at 355.6 228.346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Display_7Segment:HDSP-7401"
-			(at 355.6 257.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://docs.broadcom.com/docs/AV02-2553EN"
-			(at 355.6 243.078 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "One digit 7 segment yellow, common cathode"
-			(at 355.6 243.078 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "8"
-			(uuid "e355f0b3-4c07-429b-84f5-286933768cbb")
-		)
-		(pin "5"
-			(uuid "2e488109-60fb-4b67-b6e8-73f2a0e591c0")
-		)
-		(pin "9"
-			(uuid "b78e5324-e41e-41c5-8779-300daff3ea17")
-		)
-		(pin "7"
-			(uuid "a3b99160-70d1-4365-8df0-5a3aa1242af8")
-		)
-		(pin "10"
-			(uuid "8ecb97c7-64ad-4819-9c39-c01813628e00")
-		)
-		(pin "3"
-			(uuid "5bd01325-5556-42cd-9bde-26fdd7120502")
-		)
-		(pin "6"
-			(uuid "6278af64-c5bc-46ff-b83b-79db9a6c17d3")
-		)
-		(pin "4"
-			(uuid "4dec4d17-a6c8-47e3-a0e0-c75c4f2f03c6")
-		)
-		(pin "1"
-			(uuid "cd9b5156-1f1b-4384-82f5-5c4067f42db8")
-		)
-		(pin "2"
-			(uuid "7f06696e-7360-4c17-a772-5db73c73ad6c")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "U30")
-					(unit 1)
 				)
 			)
 		)
