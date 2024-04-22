@@ -14321,6 +14321,12 @@
 		(uuid "8f0a5429-bcbd-4bdc-8cf4-74af23b1a1d5")
 	)
 	(junction
+		(at 118.11 54.5945)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91c2d829-91b1-453e-ba16-4e37073ee48d")
+	)
+	(junction
 		(at 472.44 129.286)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14778,6 +14784,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.256 63.5) (xy 122.174 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c44b2ad-e1d2-4b60-833e-60a1ad086ce0")
+	)
+	(wire
+		(pts
 			(xy 284.48 304.038) (xy 312.674 304.038)
 		)
 		(stroke
@@ -15078,7 +15094,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 54.61) (xy 132.08 54.61)
+			(xy 118.11 54.61) (xy 104.14 54.61)
 		)
 		(stroke
 			(width 0)
@@ -16078,6 +16094,16 @@
 	)
 	(wire
 		(pts
+			(xy 122.174 63.5) (xy 122.174 54.5945)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45c38e9b-59ad-41c6-98bf-da03056884d8")
+	)
+	(wire
+		(pts
 			(xy 113.03 119.888) (xy 113.03 124.968)
 		)
 		(stroke
@@ -16618,7 +16644,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 54.61) (xy 118.11 48.26)
+			(xy 118.11 54.61) (xy 118.11 54.5945)
 		)
 		(stroke
 			(width 0)
@@ -16928,6 +16954,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 54.61) (xy 143.256 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b721862-7821-4acb-9b7d-fcee2c100529")
+	)
+	(wire
+		(pts
 			(xy 227.584 477.52) (xy 227.584 482.092)
 		)
 		(stroke
@@ -17205,6 +17241,16 @@
 			(type default)
 		)
 		(uuid "77f333f9-222d-4659-ba26-db9f2d897feb")
+	)
+	(wire
+		(pts
+			(xy 118.11 54.5945) (xy 118.11 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7811f446-68e6-442f-9b05-062a8491b506")
 	)
 	(wire
 		(pts
@@ -18178,6 +18224,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.256 54.61) (xy 143.256 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a76c7ae7-3b01-4ce5-a6b4-0818727e5119")
+	)
+	(wire
+		(pts
 			(xy 750.062 91.313) (xy 776.478 91.313)
 		)
 		(stroke
@@ -18405,6 +18461,16 @@
 			(type default)
 		)
 		(uuid "ad350465-d94d-4e84-8fcb-dbda8a164c56")
+	)
+	(wire
+		(pts
+			(xy 122.174 54.5945) (xy 118.11 54.5945)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad61e1fc-c9df-42e1-9b11-f10fc7202e29")
 	)
 	(wire
 		(pts
@@ -34861,110 +34927,6 @@
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "#PWR0126")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "74xx:74HC00")
-		(at 615.95 43.688 0)
-		(unit 3)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2f82bfe1-fee1-40d6-993c-7eb50186be26")
-		(property "Reference" "U44"
-			(at 615.9417 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "74HC00"
-			(at 615.9417 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 615.95 43.688 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74hc00"
-			(at 615.95 43.688 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 615.95 43.688 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "f1a8e02d-36a6-4459-b8c9-50fa942e452a")
-		)
-		(pin "6"
-			(uuid "6be10ad8-c4d1-429b-9c62-799915856bc7")
-		)
-		(pin "3"
-			(uuid "2ade9e73-2489-4b3a-a2fc-250175bde819")
-		)
-		(pin "7"
-			(uuid "25ed5cb9-72d2-45d4-bfe3-115b2981f162")
-		)
-		(pin "14"
-			(uuid "c79f1655-706c-4b95-9af5-76d27199709b")
-		)
-		(pin "1"
-			(uuid "367bd9bc-13e3-4116-b728-bb96847516bf")
-		)
-		(pin "12"
-			(uuid "f86a4ff3-cced-4591-a51d-e12b5acdb58c")
-		)
-		(pin "2"
-			(uuid "d57d2e3f-76c1-4546-80a7-8298c9056392")
-		)
-		(pin "8"
-			(uuid "f2b2ab89-7cb7-4288-a47a-ea013d24c287")
-		)
-		(pin "11"
-			(uuid "39de123c-6dec-4f73-8e15-77614d4727b5")
-		)
-		(pin "13"
-			(uuid "8fa917bf-57ea-4404-883e-5b6caf4d424a")
-		)
-		(pin "4"
-			(uuid "3ccb6d2b-1ef5-4f86-9ac2-1aa083e1dcc2")
-		)
-		(pin "9"
-			(uuid "a4d3d65b-bfce-415a-996b-efe867e6fd5a")
-		)
-		(pin "10"
-			(uuid "0f1c3472-f538-4fe0-ae80-cd910932cf04")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "U44")
-					(unit 3)
 				)
 			)
 		)
@@ -55766,7 +55728,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Tactile_SKHH_Angled"
+		(property "Footprint" "Button_Switch_THT:SW_Push_2P2T_Toggle_CK_PVA2xxH4xxxxxxV2"
 			(at 588.01 231.394 0)
 			(effects
 				(font
@@ -61164,7 +61126,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Tactile_SKHH_Angled"
+		(property "Footprint" "Button_Switch_THT:SW_Push_2P2T_Toggle_CK_PVA2xxH4xxxxxxV2"
 			(at 65.913 77.597 0)
 			(effects
 				(font
@@ -67034,7 +66996,7 @@
 	)
 	(symbol
 		(lib_id "74xx:74HC00")
-		(at 795.528 170.688 0)
+		(at 615.95 43.688 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -67043,7 +67005,7 @@
 		(fields_autoplaced yes)
 		(uuid "dae674f5-3b1d-40e8-8b25-02bb0a4e45d6")
 		(property "Reference" "U20"
-			(at 795.5197 162.433 0)
+			(at 615.9417 35.433 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67051,7 +67013,7 @@
 			)
 		)
 		(property "Value" "74HC00"
-			(at 795.5197 164.973 0)
+			(at 615.9417 37.973 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67059,7 +67021,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 795.528 170.688 0)
+			(at 615.95 43.688 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67068,7 +67030,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74hc00"
-			(at 795.528 170.688 0)
+			(at 615.95 43.688 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67077,7 +67039,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 795.528 170.688 0)
+			(at 615.95 43.688 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73937,7 +73899,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Tactile_SKHH_Angled"
+		(property "Footprint" "Button_Switch_THT:SW_Push_2P2T_Toggle_CK_PVA2xxH4xxxxxxV2"
 			(at 243.332 281.94 0)
 			(effects
 				(font
