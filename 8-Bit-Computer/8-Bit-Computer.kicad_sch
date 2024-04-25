@@ -14594,6 +14594,10 @@
 		(uuid "0c08b712-1bd3-41d5-98b3-039d2e9ba310")
 	)
 	(no_connect
+		(at 614.68 165.1)
+		(uuid "5c16638b-3f46-46f9-aaa0-83442c07f7e2")
+	)
+	(no_connect
 		(at 359.41 139.7)
 		(uuid "da7d0aed-a4be-4789-b811-b74930159bfa")
 	)
@@ -22541,7 +22545,7 @@
 		)
 		(uuid "521d9c18-4290-4431-88a2-9fb891d875e7")
 	)
-	(label "RI"
+	(label "WRAM"
 		(at 595.122 43.688 180)
 		(fields_autoplaced yes)
 		(effects
