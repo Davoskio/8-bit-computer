@@ -21368,17 +21368,6 @@
 		)
 		(uuid "05c2fd31-85e8-49ca-a8a0-ddc3a5349eea")
 	)
-	(label "OI"
-		(at 550.672 459.486 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "07918d5b-674c-4d3b-b0ff-0c93619d3723")
-	)
 	(label "MS4"
 		(at 487.68 121.666 0)
 		(fields_autoplaced yes)
@@ -21422,17 +21411,6 @@
 			(justify right bottom)
 		)
 		(uuid "0aab4376-2045-4612-901d-bc0c0c106e67")
-	)
-	(label "BI"
-		(at 563.372 459.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0ae7314a-be18-4265-ae99-1a0f87ef6b9f")
 	)
 	(label "BUS1"
 		(at 40.005 164.592 180)
@@ -21973,17 +21951,6 @@
 		)
 		(uuid "31cb4da0-df24-4cf1-b06c-12387949c2fe")
 	)
-	(label "AI"
-		(at 515.62 424.18 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "32cc10c0-056a-4f0f-8aa1-9cac7a74b741")
-	)
 	(label "CF"
 		(at 319.024 449.834 180)
 		(fields_autoplaced yes)
@@ -21994,17 +21961,6 @@
 			(justify right bottom)
 		)
 		(uuid "3300e465-b8a9-4745-b1a2-16ee8d66da43")
-	)
-	(label "IO"
-		(at 539.75 424.434 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3341e293-0863-4980-9fcf-4931bbe4c101")
 	)
 	(label "LCD_B"
 		(at 376.428 238.252 180)
@@ -22864,17 +22820,6 @@
 		)
 		(uuid "708f3214-36b0-419f-8ede-e0613d490d2f")
 	)
-	(label "CE"
-		(at 539.75 459.486 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "70b2790a-4bee-4982-ad5d-5d6584550a50")
-	)
 	(label "LCD_F"
 		(at 376.428 248.412 180)
 		(fields_autoplaced yes)
@@ -22985,17 +22930,6 @@
 		)
 		(uuid "76e42cde-f9c5-4187-bef4-86d65e5f9097")
 	)
-	(label "RI"
-		(at 563.372 424.688 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "775c3299-1e4f-4cdc-93d6-caa7524ea6f3")
-	)
 	(label "#EO"
 		(at 148.082 420.878 180)
 		(fields_autoplaced yes)
@@ -23039,17 +22973,6 @@
 			(justify left bottom)
 		)
 		(uuid "7b4e4ad5-6772-430c-ac31-f96f8c635f21")
-	)
-	(label "CLK"
-		(at 599.694 460.502 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7bfe8e16-2a87-4469-8773-7c68a8d95d69")
 	)
 	(label "IR_6"
 		(at 319.024 454.914 180)
@@ -23171,17 +23094,6 @@
 			(justify left bottom)
 		)
 		(uuid "8411ded1-977a-4f26-92fc-5d714982ab1b")
-	)
-	(label "AO"
-		(at 502.92 423.926 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "84654837-296d-46f1-a8a3-42b0fbc978e0")
 	)
 	(label "MS7"
 		(at 500.38 172.72 0)
@@ -23359,17 +23271,6 @@
 		)
 		(uuid "8c06509d-cb0e-4624-9e88-59bfb5a8f1ee")
 	)
-	(label "CO"
-		(at 527.05 459.232 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8c89ba40-d2ad-46cc-8204-390c76bc51ab")
-	)
 	(label "MS1"
 		(at 487.68 114.046 0)
 		(fields_autoplaced yes)
@@ -23469,17 +23370,6 @@
 		)
 		(uuid "92f30335-4ef6-418a-bb76-72a1941129b5")
 	)
-	(label "FI"
-		(at 502.92 458.978 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "935990f8-bf73-4aa9-a573-df7695016724")
-	)
 	(label "BUS5"
 		(at 47.625 485.775 180)
 		(fields_autoplaced yes)
@@ -23512,17 +23402,6 @@
 			(justify left bottom)
 		)
 		(uuid "943a1e52-4bab-42ae-8642-bbcbef93824b")
-	)
-	(label "SU"
-		(at 574.802 459.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9448e008-89f1-4561-a991-efe81a2c13cd")
 	)
 	(label "MEM_0"
 		(at 630.428 56.388 0)
@@ -24184,17 +24063,6 @@
 		)
 		(uuid "b84fb94a-9797-43f1-9f5b-bd3435aac894")
 	)
-	(label "EO"
-		(at 587.502 459.994 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b8cb0d28-de93-4e41-89a6-942d6b58605f")
-	)
 	(label "BUS0"
 		(at 503.936 74.93 180)
 		(fields_autoplaced yes)
@@ -24216,17 +24084,6 @@
 			(justify right bottom)
 		)
 		(uuid "b94c84c7-d548-464d-9b25-50ce70307901")
-	)
-	(label "RO"
-		(at 550.672 424.434 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b9ce55cb-5026-4d51-a1e3-c42b282b1ef1")
 	)
 	(label "LCD_D"
 		(at 376.428 243.332 180)
@@ -24271,17 +24128,6 @@
 			(justify right bottom)
 		)
 		(uuid "bd892fe4-5279-4c2f-9f07-ad6f48e0c06b")
-	)
-	(label "J"
-		(at 515.62 459.232 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "bd918a14-c3da-4c5a-bb72-5b5864fc4158")
 	)
 	(label "IR_0"
 		(at 627.634 333.502 0)
@@ -24436,17 +24282,6 @@
 			(justify left bottom)
 		)
 		(uuid "c990a051-37b3-4cf8-8e29-0627daa95cfc")
-	)
-	(label "II"
-		(at 527.05 424.18 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "cb504c77-9c3a-4a53-9e6d-82bc3b8a63c0")
 	)
 	(label "MEM_1"
 		(at 630.5306 58.928 0)
@@ -24833,17 +24668,6 @@
 		)
 		(uuid "dfbf7fab-5318-4ab9-9f5e-b11654019f98")
 	)
-	(label "MI"
-		(at 574.802 424.688 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e024ec1c-1935-4045-9d01-b705b36f3b00")
-	)
 	(label "OI"
 		(at 346.964 475.234 0)
 		(fields_autoplaced yes)
@@ -24854,17 +24678,6 @@
 			(justify left bottom)
 		)
 		(uuid "e0a9653f-0dba-4d25-951a-3f569bade2af")
-	)
-	(label "HLT"
-		(at 587.502 424.942 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e54e4ad6-e415-408e-a814-f151982fabe8")
 	)
 	(label "ALU_7"
 		(at 712.47 469.392 0)
@@ -25523,72 +25336,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "R111")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 515.62 439.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "041ce4a7-3069-412d-ba78-51e08a5b19b4")
-		(property "Reference" "#PWR077"
-			(at 515.62 445.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 515.62 444.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 515.62 439.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 515.62 439.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 515.62 439.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "03995766-1961-4813-b841-a8b1472f2ae4")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -26275,72 +26022,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 563.372 474.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "079b15b2-f8ab-4071-b466-b3e568d90223")
-		(property "Reference" "#PWR0198"
-			(at 563.372 481.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 563.372 480.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 563.372 474.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 563.372 474.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 563.372 474.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ceb0fdd4-bf94-49c0-9cab-e87dee284465")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0198")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 741.426 356.87 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26575,72 +26256,6 @@
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "U39")
 					(unit 4)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 527.05 439.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "08941841-26aa-42f8-9403-8fd9f7a627da")
-		(property "Reference" "#PWR078"
-			(at 527.05 445.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 527.05 444.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 527.05 439.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 527.05 439.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 527.05 439.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3e8b80bd-6c0e-4760-8f61-182de36a83be")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR078")
-					(unit 1)
 				)
 			)
 		)
@@ -27758,142 +27373,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 563.372 439.928 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0c381eab-4b98-4084-b1d2-cf222fbc6b43")
-		(property "Reference" "#PWR0190"
-			(at 563.372 446.278 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 563.372 445.008 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 563.372 439.928 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 563.372 439.928 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 563.372 439.928 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "261891e9-e025-42b6-a268-1d4a4b7e0fec")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0190")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 587.502 463.804 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0cc42f93-09c1-4630-b479-b3f25ef8616d")
-		(property "Reference" "R46"
-			(at 590.042 462.534 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 590.042 465.074 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 588.518 464.058 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 587.502 463.804 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 587.502 463.804 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "87d9021e-d8e8-4285-8e95-bd42a8c4d909")
-		)
-		(pin "2"
-			(uuid "e8dff4ce-1a1b-4d7c-96f1-d7e18f115380")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "74xx:74HC86")
 		(at 55.88 412.115 0)
 		(unit 1)
@@ -28494,72 +27973,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "#PWR0176")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 539.75 474.726 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0f6c9b42-708e-45bd-bfec-69de61a53587")
-		(property "Reference" "#PWR0196"
-			(at 539.75 481.076 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 539.75 479.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 539.75 474.726 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 539.75 474.726 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 539.75 474.726 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9b775601-c962-40aa-8b41-b88daeb0eb44")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0196")
 					(unit 1)
 				)
 			)
@@ -31039,142 +30452,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 550.672 470.916 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1cc68a40-3710-4a56-9eb9-7de162739877")
-		(property "Reference" "D20"
-			(at 553.847 471.2335 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 553.847 473.7735 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 550.672 470.916 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 550.672 470.916 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 550.672 470.916 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b1e20613-a11b-4712-994f-9dfc640198f9")
-		)
-		(pin "1"
-			(uuid "5d750134-cfc1-4b2e-93fd-2ab07ce10c7e")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 587.502 440.182 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1ce95897-42ee-4aea-ad61-a22b9d4ead10")
-		(property "Reference" "#PWR0192"
-			(at 587.502 446.532 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 587.502 445.262 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 587.502 440.182 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 587.502 440.182 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 587.502 440.182 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "96e169b4-7d87-4221-93ce-013bc5df01c2")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0192")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 353.568 97.79 0)
 		(unit 1)
@@ -31407,76 +30684,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "R61")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 515.62 463.042 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1eb77709-6738-4674-9e4e-bf6744a1dada")
-		(property "Reference" "R40"
-			(at 518.16 461.772 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 518.16 464.312 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 516.636 463.296 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 515.62 463.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 515.62 463.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "48903180-93cb-4eba-a204-649bc0920fc2")
-		)
-		(pin "2"
-			(uuid "da13e81b-fd72-4aa5-90bd-360789138385")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -33310,76 +32517,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "C16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 563.372 436.118 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "25ba5cca-e6b0-4f6e-8541-1834ced92a74")
-		(property "Reference" "D13"
-			(at 566.547 436.4355 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 566.547 438.9755 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 563.372 436.118 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 563.372 436.118 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 563.372 436.118 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e8055bff-62b0-4a9f-ad78-60a423226911")
-		)
-		(pin "1"
-			(uuid "7f4b3791-db91-41e4-9679-3010575658ee")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -36307,76 +35444,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 527.05 435.61 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "38189143-35a4-4586-a7f9-98a7025de686")
-		(property "Reference" "D5"
-			(at 530.225 435.9275 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 530.225 438.4675 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 527.05 435.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 527.05 435.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 527.05 435.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "80729ce4-f3a6-4f9d-b692-ed560b4bfb51")
-		)
-		(pin "1"
-			(uuid "5b0cec3b-5f64-4c7b-8add-a9f4930881f6")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "74xx:74LS04")
 		(at 376.428 431.8 0)
 		(unit 3)
@@ -37306,76 +36373,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 539.75 435.864 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3df5a0cd-74c9-40f3-8c07-b57aaea515f9")
-		(property "Reference" "D6"
-			(at 542.925 436.1815 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 542.925 438.7215 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 539.75 435.864 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 539.75 435.864 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 539.75 435.864 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f393ddb1-df6a-48ed-b224-17808a3a2fed")
-		)
-		(pin "1"
-			(uuid "fe640f4a-b4f3-4d7c-b7db-6b95bca07b3e")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 272.796 61.468 0)
 		(unit 1)
@@ -37880,76 +36877,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "C30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 527.05 463.042 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "41859323-d678-432a-8a14-b7a798247ad9")
-		(property "Reference" "R41"
-			(at 529.59 461.772 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 529.59 464.312 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 528.066 463.296 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 527.05 463.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 527.05 463.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "06b07392-5c30-45e0-8f8e-3e8c75d518b3")
-		)
-		(pin "2"
-			(uuid "f5ddfeca-675b-4555-966b-1b0f7b3520a6")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -39385,76 +38312,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 527.05 427.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "46c6becd-4135-4890-9960-334261c955cb")
-		(property "Reference" "R15"
-			(at 529.59 426.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 529.59 429.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 528.066 428.244 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 527.05 427.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 527.05 427.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "70bbb25b-88b1-4375-9cd2-6fc540355ae4")
-		)
-		(pin "2"
-			(uuid "fe01d132-f3cc-4343-8090-7e8d45274527")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 530.606 385.826 0)
 		(unit 1)
@@ -40157,76 +39014,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "#PWR0153")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 587.502 436.372 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4afaebb4-47ea-4ac1-a557-6c9ead22ae05")
-		(property "Reference" "D15"
-			(at 590.677 436.6895 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 590.677 439.2295 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 587.502 436.372 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 587.502 436.372 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 587.502 436.372 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "20d62883-4d0a-4f92-b4f8-b315b69d098f")
-		)
-		(pin "1"
-			(uuid "0f086da8-766d-4257-b577-18e0842fd77b")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -41077,76 +39864,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 502.92 470.408 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4f36a59d-d9c2-491d-aa60-f0f6b673d3b8")
-		(property "Reference" "D16"
-			(at 506.095 470.7255 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 506.095 473.2655 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 502.92 470.408 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 502.92 470.408 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 502.92 470.408 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c520f8ca-5494-4f2d-aa5b-3cc994640915")
-		)
-		(pin "1"
-			(uuid "245e0db3-822d-4738-8a76-d1312baf0d0d")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 712.47 484.632 0)
 		(unit 1)
@@ -41410,76 +40127,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 574.802 471.17 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "51e452fd-15b8-43ee-89ac-00f589261629")
-		(property "Reference" "D22"
-			(at 577.977 471.4875 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 577.977 474.0275 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 574.802 471.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 574.802 471.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 574.802 471.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "563e5c71-3f44-4ec8-8c3e-b2d608dd9a9e")
-		)
-		(pin "1"
-			(uuid "6acd4d53-5589-418e-af52-9fb35b4ec8bf")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 729.742 119.253 0)
 		(mirror y)
@@ -41611,72 +40258,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "D51")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 587.502 475.234 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "537b078e-479e-4a04-aca3-19890d0d4563")
-		(property "Reference" "#PWR0200"
-			(at 587.502 481.584 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 587.502 480.314 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 587.502 475.234 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 587.502 475.234 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 587.502 475.234 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d2967f70-d428-481f-9220-beea174496fe")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0200")
 					(unit 1)
 				)
 			)
@@ -43508,76 +42089,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 574.802 428.498 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5e118949-4ca4-429c-b621-9d27e9e47208")
-		(property "Reference" "R33"
-			(at 577.342 427.228 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 577.342 429.768 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 575.818 428.752 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 574.802 428.498 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 574.802 428.498 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9e57c7ff-1702-42df-b68a-e3e76238ea95")
-		)
-		(pin "2"
-			(uuid "bf0056d6-7a04-4a27-b55f-0ad92195d455")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 319.024 447.294 270)
 		(unit 1)
@@ -44063,76 +42574,6 @@
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "U40")
 					(unit 6)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 563.372 463.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6199a146-4a10-453d-961a-f8239fba7c97")
-		(property "Reference" "R44"
-			(at 565.912 462.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 565.912 464.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 564.388 463.804 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 563.372 463.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 563.372 463.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "93745a12-5568-4257-b067-a8f103145038")
-		)
-		(pin "2"
-			(uuid "ef3228c7-55b2-45f2-878a-4956768a883e")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R44")
-					(unit 1)
 				)
 			)
 		)
@@ -44703,76 +43144,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "IC3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 563.372 471.17 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6343b7cc-388a-4937-a1bc-24e85c5aa2bd")
-		(property "Reference" "D21"
-			(at 566.547 471.4875 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 566.547 474.0275 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 563.372 471.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 563.372 471.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 563.372 471.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "54af1e9a-db89-4457-abba-3cd39505fe45")
-		)
-		(pin "1"
-			(uuid "fec960a8-466d-48f8-ad74-b51a26d7c9c6")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -45524,76 +43895,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "D58")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 539.75 463.296 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6821b188-3703-4b77-9b14-b39ebbedc5ca")
-		(property "Reference" "R42"
-			(at 542.29 462.026 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 542.29 464.566 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 540.766 463.55 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 539.75 463.296 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 539.75 463.296 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a3f096ae-7b79-42f4-815c-eb78de4c466e")
-		)
-		(pin "2"
-			(uuid "66427853-794d-4e38-a1f1-7cf80d391f34")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -48397,142 +46698,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 574.802 439.928 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "756cab5d-d9c6-4530-9162-029550a69486")
-		(property "Reference" "#PWR0191"
-			(at 574.802 446.278 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 574.802 445.008 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 574.802 439.928 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 574.802 439.928 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 574.802 439.928 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "58666d1c-aa80-447c-b009-40a43e7556c3")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0191")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 587.502 471.424 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "761d21f5-e46f-43a3-870c-5a9ff87b1044")
-		(property "Reference" "D23"
-			(at 590.677 471.7415 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 590.677 474.2815 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 587.502 471.424 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 587.502 471.424 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 587.502 471.424 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "86ec24f5-a474-4c2d-9be4-c1860999ae37")
-		)
-		(pin "1"
-			(uuid "03cf6899-b415-4dcd-9674-c0bbf6880364")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 291.338 234.95 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -49459,76 +47624,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 599.694 464.312 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7ba2f34a-bd47-450e-872b-937f2fb54cd4")
-		(property "Reference" "R114"
-			(at 602.234 463.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 602.234 465.582 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 600.71 464.566 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 599.694 464.312 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 599.694 464.312 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "42e5e27e-bd1e-4138-ba9f-1b3b0d20a40b")
-		)
-		(pin "2"
-			(uuid "89bce854-5e6b-4e5c-ab49-1e29506a5451")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R114")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 629.92 418.592 90)
 		(unit 1)
@@ -49663,76 +47758,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "R108")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 515.62 435.61 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7c43f3eb-3af0-434d-81be-6523ca8a20f5")
-		(property "Reference" "D4"
-			(at 518.795 435.9275 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 518.795 438.4675 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 515.62 435.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 515.62 435.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 515.62 435.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4b673e67-8909-4bfa-82b3-c952defdd879")
-		)
-		(pin "1"
-			(uuid "3179467d-424f-411a-bb24-697ee7e94876")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -51312,76 +49337,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 539.75 428.244 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "853de39c-efb2-40e5-a337-09f6a869d968")
-		(property "Reference" "R16"
-			(at 542.29 426.974 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 542.29 429.514 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 540.766 428.498 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 539.75 428.244 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 539.75 428.244 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3f9cb366-fa71-4a33-a3ae-fe0a8d8cf922")
-		)
-		(pin "2"
-			(uuid "58888023-a11a-4d77-9412-4284b32a8dc4")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 294.386 319.024 180)
 		(unit 1)
@@ -51648,72 +49603,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "D8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 550.672 439.674 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8632be3c-b3a8-44d6-aa83-b7e2532f0118")
-		(property "Reference" "#PWR0189"
-			(at 550.672 446.024 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 550.672 444.754 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 550.672 439.674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 550.672 439.674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 550.672 439.674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c7242126-02a4-433a-8239-a418cb979d3e")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0189")
 					(unit 1)
 				)
 			)
@@ -52362,72 +50251,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 550.672 474.726 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8ac3147d-53d6-460f-8517-5dd3165a7761")
-		(property "Reference" "#PWR0197"
-			(at 550.672 481.076 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 550.672 479.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 550.672 474.726 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 550.672 474.726 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 550.672 474.726 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6802dd0d-33d5-4acf-86ff-6be7c1070c5e")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0197")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 497.078 373.888 0)
 		(unit 1)
@@ -52742,76 +50565,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "U19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 599.694 471.932 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8d106c4d-4aaf-433c-897e-2a3de8fa037b")
-		(property "Reference" "D83"
-			(at 602.869 472.2495 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 602.869 474.7895 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 599.694 471.932 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 599.694 471.932 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 599.694 471.932 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5be7537f-58d8-4783-853b-d7cceed19296")
-		)
-		(pin "1"
-			(uuid "47de0bf0-677d-446f-9155-42357bdc6efa")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D83")
 					(unit 1)
 				)
 			)
@@ -53353,72 +51106,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "R10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 539.75 439.674 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9005b3eb-0bb7-4887-9793-e98a940de879")
-		(property "Reference" "#PWR079"
-			(at 539.75 446.024 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 539.75 444.754 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 539.75 439.674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 539.75 439.674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 539.75 439.674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a1575da5-e817-4b93-be78-7893e158e633")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -55132,76 +52819,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "#PWR039")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 527.05 470.662 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9aa8ffa4-1328-4be1-9c12-3dfbee6d7cb7")
-		(property "Reference" "D18"
-			(at 530.225 470.9795 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 530.225 473.5195 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 527.05 470.662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 527.05 470.662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 527.05 470.662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "600678b9-5dd9-4398-89b9-501176b9cfb2")
-		)
-		(pin "1"
-			(uuid "5b3a5f43-8aa6-42d7-8644-ef41c95bcea8")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -57588,76 +55205,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 574.802 436.118 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a9bdf106-ab77-4206-ab35-ad9b4f4e074b")
-		(property "Reference" "D14"
-			(at 577.977 436.4355 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 577.977 438.9755 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 574.802 436.118 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 574.802 436.118 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 574.802 436.118 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "108ba645-5886-4100-95d5-7577b876b407")
-		)
-		(pin "1"
-			(uuid "ae8430ae-eb95-4d4f-ac3c-538969ab5d01")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "74xx:74LS107")
 		(at 339.852 332.232 90)
 		(unit 3)
@@ -58649,72 +56196,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "C36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 599.694 475.742 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "af00f82b-c8a6-4d31-a7ce-33493663bb21")
-		(property "Reference" "#PWR0332"
-			(at 599.694 482.092 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 599.694 480.822 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 599.694 475.742 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 599.694 475.742 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 599.694 475.742 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e94d270c-c51d-4fa6-a796-725d70361f2e")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0332")
 					(unit 1)
 				)
 			)
@@ -60611,76 +58092,6 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 587.502 428.752 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b831fbc9-a83b-48d8-b444-1c69e7bdb31d")
-		(property "Reference" "R34"
-			(at 590.042 427.482 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 590.042 430.022 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 588.518 429.006 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 587.502 428.752 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 587.502 428.752 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1d180bd1-4477-4f46-8e19-36e0a78e2516")
-		)
-		(pin "2"
-			(uuid "04a1280e-a421-4170-870f-1c0d09edb4a6")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
 		(at 625.094 240.538 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -61624,76 +59035,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 502.92 435.356 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bb08e113-1462-4741-9372-a0508fbdd09a")
-		(property "Reference" "D11"
-			(at 506.095 435.6735 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 506.095 438.2135 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 502.92 435.356 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 502.92 435.356 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 502.92 435.356 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2010c23c-5aec-4f13-9f80-44bcbb9f9eaa")
-		)
-		(pin "1"
-			(uuid "49a92988-96f3-4d86-af68-b682aea8e2a7")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 342.392 101.346 0)
 		(unit 1)
@@ -62343,76 +59684,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 515.62 427.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c23e3d7c-c33c-44e7-9ae8-7afdf40ccba3")
-		(property "Reference" "R14"
-			(at 518.16 426.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 518.16 429.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 516.636 428.244 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 515.62 427.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 515.62 427.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b04d226d-aa28-4178-ada6-35211c9c4dbf")
-		)
-		(pin "2"
-			(uuid "3e0f9c16-3fbb-4a7a-8857-ab2245e95a24")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Timer:NA555D")
 		(at 101.092 80.01 0)
 		(unit 1)
@@ -62903,76 +60174,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 550.672 463.296 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c597c2a3-e8a0-42f5-8405-042dfa21da67")
-		(property "Reference" "R43"
-			(at 553.212 462.026 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 553.212 464.566 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 551.688 463.55 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 550.672 463.296 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 550.672 463.296 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bfcafd22-5b23-444a-b8e5-c50986b04f51")
-		)
-		(pin "2"
-			(uuid "f3d07da8-997c-486f-b288-ec0dadbad049")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 768.096 392.938 180)
 		(unit 1)
@@ -63037,76 +60238,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "D49")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 539.75 470.916 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c5d16887-64b6-4041-aee5-bb3dd6106372")
-		(property "Reference" "D19"
-			(at 542.925 471.2335 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 542.925 473.7735 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 539.75 470.916 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 539.75 470.916 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 539.75 470.916 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "83c562db-d07b-4be1-8132-d6f6e2785b3c")
-		)
-		(pin "1"
-			(uuid "5e2b93b3-5513-4fab-8648-bd8bd01f63a2")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -63727,76 +60858,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "U10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 574.802 463.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c986bcf6-9ce9-46d0-af10-96de1a6e5c90")
-		(property "Reference" "R45"
-			(at 577.342 462.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 577.342 464.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 575.818 463.804 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 574.802 463.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 574.802 463.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ac46dfe4-cfcb-482e-a5f3-ffe23fcd0501")
-		)
-		(pin "2"
-			(uuid "0fd137b2-1ae1-4244-aaaf-47dd2e858722")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -64670,146 +61731,6 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 550.672 435.864 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d132fa89-a884-40f8-9cb0-af53f9e86671")
-		(property "Reference" "D12"
-			(at 553.847 436.1815 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 553.847 438.7215 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 550.672 435.864 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 550.672 435.864 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 550.672 435.864 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "799d7aea-7879-4db6-806c-573712a514e7")
-		)
-		(pin "1"
-			(uuid "da03d5ce-60a8-4b9e-a4c1-0e998da3580a")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 550.672 428.244 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d17c5acc-4afd-4dfd-8734-86442f739e91")
-		(property "Reference" "R31"
-			(at 553.212 426.974 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 553.212 429.514 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 551.688 428.498 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 550.672 428.244 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 550.672 428.244 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4801bb5c-40ee-4c18-9003-c7178aaf6b84")
-		)
-		(pin "2"
-			(uuid "10a9904f-0811-46c5-9e52-00e7d3c6b0df")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
 		(at 640.334 481.838 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -65294,72 +62215,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 502.92 439.166 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d22618b1-2738-41dd-b9d4-70ff382a2552")
-		(property "Reference" "#PWR0114"
-			(at 502.92 445.516 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 502.92 444.246 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 502.92 439.166 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 502.92 439.166 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 502.92 439.166 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "855ccc36-de58-46dc-86ae-36b3d755c85a")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0114")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 306.832 81.026 0)
 		(unit 1)
@@ -65560,72 +62415,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "#PWR0235")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 527.05 474.472 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d2ef5188-af53-41a1-abb5-4cb6502ad48a")
-		(property "Reference" "#PWR0195"
-			(at 527.05 480.822 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 527.05 479.552 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 527.05 474.472 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 527.05 474.472 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 527.05 474.472 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f22b8d4b-c2b4-4dfa-80dc-7335e87e39da")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0195")
 					(unit 1)
 				)
 			)
@@ -68576,72 +65365,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 574.802 474.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e15e5f60-2827-4aea-b681-ca5a56b58b52")
-		(property "Reference" "#PWR0199"
-			(at 574.802 481.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 574.802 480.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 574.802 474.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 574.802 474.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 574.802 474.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "22c7dbc8-74ac-45ba-b2a9-b82e5f4feb39")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0199")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 519.43 385.572 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -69173,76 +65896,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "R100")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 502.92 427.736 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e3741cd0-7f20-4e77-9714-3ad5c090fb87")
-		(property "Reference" "R24"
-			(at 505.46 426.466 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 505.46 429.006 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 503.936 427.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 502.92 427.736 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 502.92 427.736 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "68e2a42d-8f61-4340-b3ca-5f903a17cd86")
-		)
-		(pin "2"
-			(uuid "1ca2dbe0-bed2-47b6-8a02-9c3f94fe1b43")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -70192,76 +66845,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "#PWR028")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 515.62 470.662 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e79d9d16-f8f5-4bbb-a637-885c42d0abe7")
-		(property "Reference" "D17"
-			(at 518.795 470.9795 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "B_LED"
-			(at 518.795 473.5195 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 515.62 470.662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 515.62 470.662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 515.62 470.662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "90d2fbd3-0b1e-4764-8f59-8f1028459fa6")
-		)
-		(pin "1"
-			(uuid "39702dd1-7430-47ba-bd9f-192e1562632f")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -71748,76 +68331,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 563.372 428.498 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "efb64732-6793-4f9a-ba13-89fee41d09ec")
-		(property "Reference" "R32"
-			(at 565.912 427.228 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 565.912 429.768 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 564.388 428.752 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 563.372 428.498 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 563.372 428.498 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "993f236b-3e98-4442-a5e9-97cc0f3e4652")
-		)
-		(pin "2"
-			(uuid "200a9d15-1152-44be-9e9a-2bf6af44444f")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "74xx:74HC86")
 		(at 158.75 317.5 90)
 		(unit 5)
@@ -71919,72 +68432,6 @@
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "U13")
 					(unit 5)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 502.92 474.218 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f0a8897b-9031-4128-9251-edad40b83f2d")
-		(property "Reference" "#PWR0193"
-			(at 502.92 480.568 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 502.92 479.298 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 502.92 474.218 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 502.92 474.218 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 502.92 474.218 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6005b8f3-0292-41a3-88c7-6eff3f72e42a")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0193")
-					(unit 1)
 				)
 			)
 		)
@@ -72353,76 +68800,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "#PWR049")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 502.92 462.788 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f32faa75-1745-4af7-9e5b-cf513e433b93")
-		(property "Reference" "R35"
-			(at 505.46 461.518 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "R_US"
-			(at 505.46 464.058 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 503.936 463.042 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 502.92 462.788 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 502.92 462.788 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "33eb761d-849e-4ab4-ab3e-cd23631e0ac5")
-		)
-		(pin "2"
-			(uuid "c4116574-5082-45b7-8a0b-6e8a4af30591")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -73333,72 +69710,6 @@
 			(project "8-Bit-Computer"
 				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
 					(reference "D46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 515.62 474.472 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f831befa-02f5-45a4-a21b-19880531c23a")
-		(property "Reference" "#PWR0194"
-			(at 515.62 480.822 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 515.62 479.552 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 515.62 474.472 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 515.62 474.472 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 515.62 474.472 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7cc7f071-0619-403b-b060-c756e437860d")
-		)
-		(instances
-			(project "8-Bit-Computer"
-				(path "/7068cf22-ceca-4c5f-b7d5-56f579bc3b1d"
-					(reference "#PWR0194")
 					(unit 1)
 				)
 			)
