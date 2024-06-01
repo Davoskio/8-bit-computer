@@ -489,7 +489,7 @@
       "idf": "",
       "netlist": "../../../",
       "plot": "../JLCPCB/",
-      "pos_files": "",
+      "pos_files": "../JLCPCB/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
